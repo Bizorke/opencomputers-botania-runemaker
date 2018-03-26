@@ -1,4 +1,5 @@
-#Open Computers Botania Rune Maker
+Open Computers Botania Rune Maker
+=================================
 
 **System Requirements:**
 - Tier 2 computer & graphics.
