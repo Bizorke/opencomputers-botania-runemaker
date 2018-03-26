@@ -1,4 +1,4 @@
-Open Computers Botania Rune Maker
+OpenComputers Botania Rune Maker
 =================================
 
 **System Requirements:**
